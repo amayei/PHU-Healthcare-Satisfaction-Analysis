@@ -32,6 +32,10 @@ The notebook expects a survey dataset (`SHS-Data.csv`) in the working directory.
 
 Python · pandas · NumPy · matplotlib · seaborn · Jupyter
 
+## Data protection
+
+The source data are not distributed. Notebook outputs that displayed respondent-level rows, household GPS coordinates or village names were removed before publication. Re-run the notebook locally with your own authorised copy of the data to regenerate them.
+
 ## Author
 
 **Alhassan Mayei** — Digital Health & M&E Advisor
